@@ -80,7 +80,6 @@ For this analysis, we used several different types of supervised machine learnin
 
 In the future, we would like to improve the accuracy of the model predictions, by expanding our dataset to include more airports to take away potential bias from just using Atlanta- Hartsfield as the departure point. Also, reviewing the data cleaning process to ensure we are eliminating erroneous data and changing the data point to increase the accuracy above 75%. We would also include datasets from other sources with other relevant data points to predict delays (weather, labor interruptions, etc.) Another thing, we could do in the future is run model on individual airlines to see if any weighs on the dataset adversely. Creating a website so travelers can change the search parameters and predict the chance of delay prior to flying would be something we would consider doing in the future. 
 
-[Taking_Flights] 
 
 
 ## Credits
