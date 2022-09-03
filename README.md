@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+![https://github.com/HanaTafesse/Project_4-Taking-Flight/blob/main/Resources/dataset-cover.png]
+
 - [Installation](#installation)
 - [Background](#background)
 - [Getting Started](#getting)
